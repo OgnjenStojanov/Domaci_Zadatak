@@ -33,3 +33,7 @@ namespace ConsoleApp11
 
     }
 }
+| Naziv promenljive | Tip    | Opis                          |
+|-------------------|--------|-------------------------------|
+| d                 | double | dijagonala                    |
+| r                 | double | poluprecnik                   |
