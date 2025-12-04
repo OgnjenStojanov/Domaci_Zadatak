@@ -45,6 +45,14 @@ C:\Users\radlovacki-01\Desktop\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
 ```
+``` text
+Unesi dijagonalu d 6
+r je 3
+
+C:\Users\radlovacki-01\Desktop\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe (process 15180) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
 
 
 
