@@ -7,7 +7,7 @@
 
 ### Formula
 
-$$r=\frac{d]{2}$$
+$$r=\frac{d}{2}$$
 
 ## Resenje
 
