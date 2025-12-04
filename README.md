@@ -1,15 +1,17 @@
 # Domaci_Zadatak
 
 ## Zadatak
+
 Програм који на основу унете дужине **дијагонале** правоугаоника d израчунава 
 **полупречник** описане кружнице r. 
+
 ### Formula
-$$
-4\ r=\frac{d]{2}
-$$
-## 
-##Resenje
-csharp
+
+$$r=\frac{d]{2}$$
+
+## Resenje
+
+```csharp
 using System;
 
 namespace ConsoleApp11
@@ -34,9 +36,9 @@ namespace ConsoleApp11
 
     }
 }
+```
 
 ### primeri
-
 
 ``` text
 Unesi dijagonalu d 12
@@ -46,6 +48,7 @@ C:\Users\radlovacki-01\Desktop\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
 ```
+
 ``` text
 Unesi dijagonalu d 6
 r je 3
@@ -64,5 +67,5 @@ Press any key to close this window . . .
 
 | Naziv promenljive | Tip    | Opis                          |
 |-------------------|--------|-------------------------------|
-| d                 | double | dijagonala                    |
-| r                 | double | poluprecnik                   |
+| `d `                | `double` | dijagonala                    |
+| `r`                 | `double` | poluprecnik                   |
