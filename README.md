@@ -33,6 +33,26 @@ namespace ConsoleApp11
 
     }
 }
+
+### primeri
+
+
+``` text
+Unesi dijagonalu d 12
+r je 6
+
+C:\Users\radlovacki-01\Desktop\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe (process 15180) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+```
+
+
+
+
+
+
+
+
 | Naziv promenljive | Tip    | Opis                          |
 |-------------------|--------|-------------------------------|
 | d                 | double | dijagonala                    |
