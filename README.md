@@ -3,6 +3,33 @@
 ## Zadatak
 Програм који на основу унете дужине **дијагонале** правоугаоника d израчунава 
 **полупречник** описане кружнице r. 
+### Formula
 $$
 4\ r=\frac{d]{2}
 $$
+## Resenje
+csharp
+using System;
+
+namespace ConsoleApp11
+{
+
+    internal class Program
+
+    {
+
+        static void Main(string[] args)
+        {
+            
+            Console.Write("Unesi dijagonalu d ");
+            int d = int.Parse(Console.ReadLine());
+            int r = d / 2;
+            Console.WriteLine("r je {0}", r);
+
+
+        }
+
+        
+
+    }
+}
